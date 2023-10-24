@@ -1,0 +1,60 @@
+[
+  {
+    "ma": 1,
+    "ten": "Nước Ngọt",
+    "dsSp": [
+      {
+        "ma": 1,
+        "ten": "Cocacola",
+        "gia": 15.0
+      },
+      {
+        "ma": 2,
+        "ten": "Pepsi",
+        "gia": 25.0
+      },
+      {
+        "ma": 3,
+        "ten": "Sting",
+        "gia": 10.0
+      }
+    ]
+  },
+  {
+    "ma": 2,
+    "ten": "Bia",
+    "dsSp": [
+      {
+        "ma": 4,
+        "ten": "Bia Ken",
+        "gia": 35.0
+      },
+      {
+        "ma": 5,
+        "ten": "Bia Sài gòn đỏ",
+        "gia": 35.0
+      }
+    ]
+  },
+  {
+    "ma": 3,
+    "ten": "Rượu",
+    "dsSp": [
+      {
+        "ma": 6,
+        "ten": "Rượu Vodka Hà Nội",
+        "gia": 12.0
+      },
+      {
+        "ma": 7,
+        "ten": "Rượu Vang Đà Lạt",
+        "gia": 7.0
+      },
+      {
+        "ma": 8,
+        "ten": "Rượu Đế Amakông",
+        "gia": 67.0
+      }
+    ]
+  }
+]

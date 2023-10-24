@@ -1,0 +1,17 @@
+[
+  {
+    "ma": 1,
+    "ten": "Coca colala",
+    "gia": 15.0
+  },
+  {
+    "ma": 2,
+    "ten": "Aquafina",
+    "gia": 25.0
+  },
+  {
+    "ma": 3,
+    "ten": "Sting",
+    "gia": 10.0
+  }
+]
