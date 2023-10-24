@@ -29,10 +29,7 @@ fun ThuLuuDanhMucVaSanPham()
 
     val jsFF=JSonFileFactory()
     val kq=jsFF.LuuDuLieu(dsDM,"D:/Kotlin/Bai84_BaiTapRenLuyenJSon/csdlSanPham.json")
-    if(kq)
-        println("Lưu Json Master-details thành công")
-    else
-        println("Sorry nha, lưu hok được thím ơi")
+    println (if(kq) "Lưu Json Master-details thành công" else "Sorry nha, lưu hok được thím ơi")
 
 }
 fun main(args: Array<String>) {
