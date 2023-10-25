@@ -17,6 +17,7 @@ fun main(args: Array<String>) {
     isr.close()
     data=data.replace("(","")
     data=data.replace(")","")
+    println(data)
     var gson=Gson()
     var tg:TiGia = gson.fromJson(data,TiGia::class.java)
     for (item in tg.items) {
